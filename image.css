@@ -1,0 +1,60 @@
+#dropdowns{
+    display: flex; 
+    justify-content: space-around;
+    background-color:#3962f5;
+}
+
+.nav-pills .nav-link {
+    color: #ffffff;
+}
+
+.nav-item .far {
+    color:#ffffff;
+    margin: 5px;
+}
+
+#footer {
+    background-color:#3962f5;
+    color: #ffffff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#empProfile {
+    background-color: rgb(218 241 248);;
+
+}
+
+#empData1 {
+    justify-content: space-evenly;
+    padding:15px;
+}
+
+#empData2 {
+    justify-content: space-evenly;
+    padding:15px;
+}
+
+.avatar {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+.col-sm-2{
+    background-color: #ffffff;
+}  
+
+.profileCentre {
+    text-align: center;
+}
+
+#avatarName{
+    text-align: center;
+    color: rgb(6, 22, 235);
+}
